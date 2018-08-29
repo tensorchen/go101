@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [go101](README.md)
 * [Go类型系统](go-lei-xing-xi-tong/README.md)
   * [Go 类型系统概述](go-lei-xing-xi-tong/go-lei-xing-xi-tong-gai-shu.md)
   * [指针](go-lei-xing-xi-tong/zhi-zhen.md)
